@@ -23,15 +23,15 @@ def main():
     mapping = {'py': 'Python', '.c': 'C', 'pp': 'C++', 'va': "Java"}
 
     # generate clipboard items
-    for _file in files:
+    for index, _file in enumerate(files, start=1):
         file_types = ''
         # find file type
         items = os.listdir(_file)
         for item in items:
             if item[-2:] in mapping.keys():
                 file_types += mapping[item[-2:]] + ', '
-
-        text += f"* [{_file}](https://leetcode.com/problems/{_file}) - {file_types[:-2]} \n"
+        
+        text += f" {index}. [{' '.join(x.capitalize() or ' ' for x in _file.split('-'))}](https://leetcode.com/problems/{_file}) - {file_types[:-2]} \n"
 
     front = """# Leetcode
 
