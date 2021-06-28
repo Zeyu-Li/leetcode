@@ -41,11 +41,12 @@
  32. [3sum](https://leetcode.com/problems/3sum) - C++ 
  33. [Running Sum Of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) - C++ 
  34. [Container With Most Water](https://leetcode.com/problems/container-with-most-water) - C++ 
- 35. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) - C++ 
- 36. [Queries On Number Of Points Inside A Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle) - C++ 
- 37. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) - Python 
+ 35. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) - Python 
+ 36. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) - C++ 
+ 37. [Queries On Number Of Points Inside A Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle) - C++ 
+ 38. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) - Python 
 
-Count: 37
+Count: 38
 
 
 ## License
