@@ -26,27 +26,28 @@
  17. [How Many Numbers Are Smaller Than The Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) - Python 
  18. [Design Parking System](https://leetcode.com/problems/design-parking-system) - C++ 
  19. [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) - C++ 
- 20. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) - Python 
- 21. [Palindrome Number](https://leetcode.com/problems/palindrome-number) - Python 
- 22. [Plus One](https://leetcode.com/problems/plus-one) - Python 
- 23. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) - Python 
- 24. [Shuffle String](https://leetcode.com/problems/shuffle-string) - Python 
- 25. [Integer To Roman](https://leetcode.com/problems/integer-to-roman) - Python 
- 26. [Kids With The Greatest Number Of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) - Python 
- 27. [Shuffle The Array](https://leetcode.com/problems/shuffle-the-array) - C++ 
- 28. [Reverse Linked List Ii](https://leetcode.com/problems/reverse-linked-list-ii) - Python 
- 29. [Two Sum](https://leetcode.com/problems/two-sum) - Python 
- 30. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) - Python 
- 31. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) - Python 
- 32. [3sum](https://leetcode.com/problems/3sum) - C++ 
- 33. [Running Sum Of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) - C++ 
- 34. [Container With Most Water](https://leetcode.com/problems/container-with-most-water) - C++ 
- 35. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) - Python 
- 36. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) - C++ 
- 37. [Queries On Number Of Points Inside A Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle) - C++ 
- 38. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) - Python 
+ 20. [Jump Game](https://leetcode.com/problems/jump-game) - C++ 
+ 21. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) - Python 
+ 22. [Palindrome Number](https://leetcode.com/problems/palindrome-number) - Python 
+ 23. [Plus One](https://leetcode.com/problems/plus-one) - Python 
+ 24. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) - Python 
+ 25. [Shuffle String](https://leetcode.com/problems/shuffle-string) - Python 
+ 26. [Integer To Roman](https://leetcode.com/problems/integer-to-roman) - Python 
+ 27. [Kids With The Greatest Number Of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) - Python 
+ 28. [Shuffle The Array](https://leetcode.com/problems/shuffle-the-array) - C++ 
+ 29. [Reverse Linked List Ii](https://leetcode.com/problems/reverse-linked-list-ii) - Python 
+ 30. [Two Sum](https://leetcode.com/problems/two-sum) - Python 
+ 31. [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) - Python 
+ 32. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) - Python 
+ 33. [3sum](https://leetcode.com/problems/3sum) - C++ 
+ 34. [Running Sum Of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) - C++ 
+ 35. [Container With Most Water](https://leetcode.com/problems/container-with-most-water) - C++ 
+ 36. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) - Python 
+ 37. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) - C++ 
+ 38. [Queries On Number Of Points Inside A Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle) - C++ 
+ 39. [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) - Python 
 
-Count: 38
+Count: 39
 
 
 ## License
