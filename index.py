@@ -9,7 +9,9 @@ import os
 
 
 def main():
+    # get sorted files
     files = os.listdir()
+    files.sort()
 
     # remove non folder items manually
     ignore = ['.git', '.github', 'index.py', 'LICENSE', 'README.md']
