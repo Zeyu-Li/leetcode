@@ -41,15 +41,16 @@
  32. [Palindrome Number](https://leetcode.com/problems/palindrome-number) - Python 
  33. [Subtract The Product And Sum Of Digits Of An Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) - Python 
  34. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) - C++ 
- 35. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) - Python 
- 36. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) - C++ 
- 37. [Shuffle String](https://leetcode.com/problems/shuffle-string) - Python 
- 38. [Queries On Number Of Points Inside A Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle) - C++ 
- 39. [Number Of Steps To Reduce A Number To Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) - Python 
- 40. [Implement Strstr](https://leetcode.com/problems/implement-strstr) - C++ 
- 41. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) - Python 
+ 35. [Check If The Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram) - Python 
+ 36. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) - Python 
+ 37. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) - C++ 
+ 38. [Shuffle String](https://leetcode.com/problems/shuffle-string) - Python 
+ 39. [Queries On Number Of Points Inside A Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle) - C++ 
+ 40. [Number Of Steps To Reduce A Number To Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) - Python 
+ 41. [Implement Strstr](https://leetcode.com/problems/implement-strstr) - C++ 
+ 42. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) - Python 
 
-Count: 41
+Count: 42
 
 
 ## License
