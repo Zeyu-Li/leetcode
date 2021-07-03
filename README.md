@@ -42,15 +42,16 @@
  33. [Running Sum Of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) - C++ 
  34. [Shuffle String](https://leetcode.com/problems/shuffle-string) - Python 
  35. [Shuffle The Array](https://leetcode.com/problems/shuffle-the-array) - C++ 
- 36. [Sqrtx](https://leetcode.com/problems/sqrtx) - C++ 
- 37. [String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi) - C++ 
- 38. [Subtract The Product And Sum Of Digits Of An Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) - Python 
- 39. [Two Sum](https://leetcode.com/problems/two-sum) - Python 
- 40. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) - Python 
- 41. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) - Python 
- 42. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) - C++ 
+ 36. [Sorting The Sentence](https://leetcode.com/problems/sorting-the-sentence) - Python 
+ 37. [Sqrtx](https://leetcode.com/problems/sqrtx) - C++ 
+ 38. [String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi) - C++ 
+ 39. [Subtract The Product And Sum Of Digits Of An Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) - Python 
+ 40. [Two Sum](https://leetcode.com/problems/two-sum) - Python 
+ 41. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) - Python 
+ 42. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) - Python 
+ 43. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) - C++ 
 
-Count: 42
+Count: 43
 
 
 ## License
