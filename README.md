@@ -44,19 +44,20 @@
  35. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) - C++ 
  36. [Roman To Integer](https://leetcode.com/problems/roman-to-integer) - Python 
  37. [Running Sum Of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) - C++ 
- 38. [Shuffle String](https://leetcode.com/problems/shuffle-string) - Python 
- 39. [Shuffle The Array](https://leetcode.com/problems/shuffle-the-array) - C++ 
- 40. [Sorting The Sentence](https://leetcode.com/problems/sorting-the-sentence) - Python 
- 41. [Sqrtx](https://leetcode.com/problems/sqrtx) - C++ 
- 42. [String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi) - C++ 
- 43. [Subsets](https://leetcode.com/problems/subsets) - Python 
- 44. [Subtract The Product And Sum Of Digits Of An Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) - Python 
- 45. [Two Sum](https://leetcode.com/problems/two-sum) - Python 
- 46. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) - Python 
- 47. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) - Python 
- 48. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) - C++ 
+ 38. [Search Insert Position](https://leetcode.com/problems/search-insert-position) - C++ 
+ 39. [Shuffle String](https://leetcode.com/problems/shuffle-string) - Python 
+ 40. [Shuffle The Array](https://leetcode.com/problems/shuffle-the-array) - C++ 
+ 41. [Sorting The Sentence](https://leetcode.com/problems/sorting-the-sentence) - Python 
+ 42. [Sqrtx](https://leetcode.com/problems/sqrtx) - C++ 
+ 43. [String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi) - C++ 
+ 44. [Subsets](https://leetcode.com/problems/subsets) - Python 
+ 45. [Subtract The Product And Sum Of Digits Of An Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) - Python 
+ 46. [Two Sum](https://leetcode.com/problems/two-sum) - Python 
+ 47. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) - Python 
+ 48. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) - Python 
+ 49. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) - C++ 
 
-Count: 48
+Count: 49
 
 
 ## License
