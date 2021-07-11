@@ -39,26 +39,27 @@
  30. [Queries On Number Of Points Inside A Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle) - C++ 
  31. [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) - C++ 
  32. [Remove Element](https://leetcode.com/problems/remove-element) - C++ 
- 33. [Reverse Integer](https://leetcode.com/problems/reverse-integer) - Python 
- 34. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) - Python 
- 35. [Reverse Linked List Ii](https://leetcode.com/problems/reverse-linked-list-ii) - Python 
- 36. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) - C++ 
- 37. [Roman To Integer](https://leetcode.com/problems/roman-to-integer) - Python 
- 38. [Running Sum Of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) - C++ 
- 39. [Search Insert Position](https://leetcode.com/problems/search-insert-position) - C++ 
- 40. [Shuffle String](https://leetcode.com/problems/shuffle-string) - Python 
- 41. [Shuffle The Array](https://leetcode.com/problems/shuffle-the-array) - C++ 
- 42. [Sorting The Sentence](https://leetcode.com/problems/sorting-the-sentence) - Python 
- 43. [Sqrtx](https://leetcode.com/problems/sqrtx) - C++ 
- 44. [String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi) - C++ 
- 45. [Subsets](https://leetcode.com/problems/subsets) - Python 
- 46. [Subtract The Product And Sum Of Digits Of An Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) - Python 
- 47. [Two Sum](https://leetcode.com/problems/two-sum) - Python 
- 48. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) - Python 
- 49. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) - Python 
- 50. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) - C++ 
+ 33. [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) - Python 
+ 34. [Reverse Integer](https://leetcode.com/problems/reverse-integer) - Python 
+ 35. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) - Python 
+ 36. [Reverse Linked List Ii](https://leetcode.com/problems/reverse-linked-list-ii) - Python 
+ 37. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) - C++ 
+ 38. [Roman To Integer](https://leetcode.com/problems/roman-to-integer) - Python 
+ 39. [Running Sum Of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) - C++ 
+ 40. [Search Insert Position](https://leetcode.com/problems/search-insert-position) - C++ 
+ 41. [Shuffle String](https://leetcode.com/problems/shuffle-string) - Python 
+ 42. [Shuffle The Array](https://leetcode.com/problems/shuffle-the-array) - C++ 
+ 43. [Sorting The Sentence](https://leetcode.com/problems/sorting-the-sentence) - Python 
+ 44. [Sqrtx](https://leetcode.com/problems/sqrtx) - C++ 
+ 45. [String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi) - C++ 
+ 46. [Subsets](https://leetcode.com/problems/subsets) - Python 
+ 47. [Subtract The Product And Sum Of Digits Of An Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) - Python 
+ 48. [Two Sum](https://leetcode.com/problems/two-sum) - Python 
+ 49. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) - Python 
+ 50. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) - Python 
+ 51. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) - C++ 
 
-Count: 50
+Count: 51
 
 
 ## License
