@@ -58,12 +58,13 @@
  49. [String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi) - C++ 
  50. [Subsets](https://leetcode.com/problems/subsets) - Python 
  51. [Subtract The Product And Sum Of Digits Of An Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) - Python 
- 52. [Two Sum](https://leetcode.com/problems/two-sum) - Python 
- 53. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) - Python 
- 54. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) - Python 
- 55. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) - C++ 
+ 52. [Tenth Line](https://leetcode.com/problems/tenth-line) -  
+ 53. [Two Sum](https://leetcode.com/problems/two-sum) - Python 
+ 54. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) - Python 
+ 55. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) - Python 
+ 56. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) - C++ 
 
-Count: 55
+Count: 56
 
 
 ## License
