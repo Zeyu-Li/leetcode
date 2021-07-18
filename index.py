@@ -22,7 +22,7 @@ def main():
 
     # inits
     text = '\n'
-    mapping = {'py': 'Python', '.c': 'C', 'pp': 'C++', 'va': "Java"}
+    mapping = {'py': 'Python', '.c': 'C', 'pp': 'C++', 'va': "Java", 'sh': 'Shell'}
 
     # generate clipboard items
     for index, _file in enumerate(files, start=1):
