@@ -59,20 +59,21 @@
  50. [Running Sum Of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) - C++ 
  51. [Same Tree](https://leetcode.com/problems/same-tree) - Python 
  52. [Search Insert Position](https://leetcode.com/problems/search-insert-position) - C++ 
- 53. [Shuffle String](https://leetcode.com/problems/shuffle-string) - Python 
- 54. [Shuffle The Array](https://leetcode.com/problems/shuffle-the-array) - C++ 
- 55. [Sorting The Sentence](https://leetcode.com/problems/sorting-the-sentence) - Python 
- 56. [Sqrtx](https://leetcode.com/problems/sqrtx) - C++ 
- 57. [String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi) - C++ 
- 58. [Subsets](https://leetcode.com/problems/subsets) - Python 
- 59. [Subtract The Product And Sum Of Digits Of An Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) - Python 
- 60. [Tenth Line](https://leetcode.com/problems/tenth-line) - Shell 
- 61. [Two Sum](https://leetcode.com/problems/two-sum) - Python 
- 62. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) - Python 
- 63. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) - Python 
- 64. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) - C++ 
+ 53. [Second Highest Salary](https://leetcode.com/problems/second-highest-salary) -  
+ 54. [Shuffle String](https://leetcode.com/problems/shuffle-string) - Python 
+ 55. [Shuffle The Array](https://leetcode.com/problems/shuffle-the-array) - C++ 
+ 56. [Sorting The Sentence](https://leetcode.com/problems/sorting-the-sentence) - Python 
+ 57. [Sqrtx](https://leetcode.com/problems/sqrtx) - C++ 
+ 58. [String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi) - C++ 
+ 59. [Subsets](https://leetcode.com/problems/subsets) - Python 
+ 60. [Subtract The Product And Sum Of Digits Of An Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) - Python 
+ 61. [Tenth Line](https://leetcode.com/problems/tenth-line) - Shell 
+ 62. [Two Sum](https://leetcode.com/problems/two-sum) - Python 
+ 63. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) - Python 
+ 64. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) - Python 
+ 65. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) - C++ 
 
-Count: 64
+Count: 65
 
 
 ## License
