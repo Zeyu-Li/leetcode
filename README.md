@@ -70,10 +70,11 @@
  61. [Tenth Line](https://leetcode.com/problems/tenth-line) - Shell 
  62. [Two Sum](https://leetcode.com/problems/two-sum) - Python 
  63. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) - Python 
- 64. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) - Python 
- 65. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) - C++ 
+ 64. [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) - Shell 
+ 65. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) - Python 
+ 66. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) - C++ 
 
-Count: 65
+Count: 66
 
 
 ## License
