@@ -42,39 +42,40 @@
  33. [Palindrome Number](https://leetcode.com/problems/palindrome-number) - Python 
  34. [Partitioning Into Minimum Number Of Deci Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers) - C++ 
  35. [Pascals Triangle](https://leetcode.com/problems/pascals-triangle) - C++ 
- 36. [Path Sum](https://leetcode.com/problems/path-sum) - Python 
- 37. [Permutations](https://leetcode.com/problems/permutations) - Python 
- 38. [Plus One](https://leetcode.com/problems/plus-one) - Python 
- 39. [Powx N](https://leetcode.com/problems/powx-n) - C++ 
- 40. [Queries On Number Of Points Inside A Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle) - C++ 
- 41. [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) - C++ 
- 42. [Remove Element](https://leetcode.com/problems/remove-element) - C++ 
- 43. [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) - Python 
- 44. [Reverse Integer](https://leetcode.com/problems/reverse-integer) - Python 
- 45. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) - Python 
- 46. [Reverse Linked List Ii](https://leetcode.com/problems/reverse-linked-list-ii) - Python 
- 47. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) - C++ 
- 48. [Roman To Integer](https://leetcode.com/problems/roman-to-integer) - Python 
- 49. [Rotate Image](https://leetcode.com/problems/rotate-image) - Python 
- 50. [Running Sum Of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) - C++ 
- 51. [Same Tree](https://leetcode.com/problems/same-tree) - Python 
- 52. [Search Insert Position](https://leetcode.com/problems/search-insert-position) - C++ 
- 53. [Second Highest Salary](https://leetcode.com/problems/second-highest-salary) -  
- 54. [Shuffle String](https://leetcode.com/problems/shuffle-string) - Python 
- 55. [Shuffle The Array](https://leetcode.com/problems/shuffle-the-array) - C++ 
- 56. [Sorting The Sentence](https://leetcode.com/problems/sorting-the-sentence) - Python 
- 57. [Sqrtx](https://leetcode.com/problems/sqrtx) - C++ 
- 58. [String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi) - C++ 
- 59. [Subsets](https://leetcode.com/problems/subsets) - Python 
- 60. [Subtract The Product And Sum Of Digits Of An Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) - Python 
- 61. [Tenth Line](https://leetcode.com/problems/tenth-line) - Shell 
- 62. [Two Sum](https://leetcode.com/problems/two-sum) - Python 
- 63. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) - Python 
- 64. [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) - Shell 
- 65. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) - Python 
- 66. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) - C++ 
+ 36. [Pascals Triangle Ii](https://leetcode.com/problems/pascals-triangle-ii) - C++ 
+ 37. [Path Sum](https://leetcode.com/problems/path-sum) - Python 
+ 38. [Permutations](https://leetcode.com/problems/permutations) - Python 
+ 39. [Plus One](https://leetcode.com/problems/plus-one) - Python 
+ 40. [Powx N](https://leetcode.com/problems/powx-n) - C++ 
+ 41. [Queries On Number Of Points Inside A Circle](https://leetcode.com/problems/queries-on-number-of-points-inside-a-circle) - C++ 
+ 42. [Remove Duplicates From Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) - C++ 
+ 43. [Remove Element](https://leetcode.com/problems/remove-element) - C++ 
+ 44. [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) - Python 
+ 45. [Reverse Integer](https://leetcode.com/problems/reverse-integer) - Python 
+ 46. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) - Python 
+ 47. [Reverse Linked List Ii](https://leetcode.com/problems/reverse-linked-list-ii) - Python 
+ 48. [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) - C++ 
+ 49. [Roman To Integer](https://leetcode.com/problems/roman-to-integer) - Python 
+ 50. [Rotate Image](https://leetcode.com/problems/rotate-image) - Python 
+ 51. [Running Sum Of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array) - C++ 
+ 52. [Same Tree](https://leetcode.com/problems/same-tree) - Python 
+ 53. [Search Insert Position](https://leetcode.com/problems/search-insert-position) - C++ 
+ 54. [Second Highest Salary](https://leetcode.com/problems/second-highest-salary) -  
+ 55. [Shuffle String](https://leetcode.com/problems/shuffle-string) - Python 
+ 56. [Shuffle The Array](https://leetcode.com/problems/shuffle-the-array) - C++ 
+ 57. [Sorting The Sentence](https://leetcode.com/problems/sorting-the-sentence) - Python 
+ 58. [Sqrtx](https://leetcode.com/problems/sqrtx) - C++ 
+ 59. [String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi) - C++ 
+ 60. [Subsets](https://leetcode.com/problems/subsets) - Python 
+ 61. [Subtract The Product And Sum Of Digits Of An Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) - Python 
+ 62. [Tenth Line](https://leetcode.com/problems/tenth-line) - Shell 
+ 63. [Two Sum](https://leetcode.com/problems/two-sum) - Python 
+ 64. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) - Python 
+ 65. [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) - Shell 
+ 66. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) - Python 
+ 67. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) - C++ 
 
-Count: 66
+Count: 67
 
 
 ## License
