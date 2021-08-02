@@ -74,12 +74,13 @@
  65. [Subtract The Product And Sum Of Digits Of An Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) - Python 
  66. [Tenth Line](https://leetcode.com/problems/tenth-line) - Shell 
  67. [Two Sum](https://leetcode.com/problems/two-sum) - Python 
- 68. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) - Python 
- 69. [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) - Shell 
- 70. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) - Python 
- 71. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) - C++ 
+ 68. [Valid Anagram](https://leetcode.com/problems/valid-anagram) - Python 
+ 69. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) - Python 
+ 70. [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) - Shell 
+ 71. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) - Python 
+ 72. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) - C++ 
 
-Count: 71
+Count: 72
 
 
 ## License
