@@ -73,18 +73,19 @@
  64. [Single Number](https://leetcode.com/problems/single-number) - Python 
  65. [Sorting The Sentence](https://leetcode.com/problems/sorting-the-sentence) - Python 
  66. [Sqrtx](https://leetcode.com/problems/sqrtx) - C++ 
- 67. [String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi) - C++ 
- 68. [Subsets](https://leetcode.com/problems/subsets) - Python 
- 69. [Subtract The Product And Sum Of Digits Of An Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) - Python 
- 70. [Tenth Line](https://leetcode.com/problems/tenth-line) - Shell 
- 71. [Two Sum](https://leetcode.com/problems/two-sum) - Python 
- 72. [Valid Anagram](https://leetcode.com/problems/valid-anagram) - Python 
- 73. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) - Python 
- 74. [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) - Shell 
- 75. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) - Python 
- 76. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) - C++ 
+ 67. [Stone Game](https://leetcode.com/problems/stone-game) - C++ 
+ 68. [String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi) - C++ 
+ 69. [Subsets](https://leetcode.com/problems/subsets) - Python 
+ 70. [Subtract The Product And Sum Of Digits Of An Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) - Python 
+ 71. [Tenth Line](https://leetcode.com/problems/tenth-line) - Shell 
+ 72. [Two Sum](https://leetcode.com/problems/two-sum) - Python 
+ 73. [Valid Anagram](https://leetcode.com/problems/valid-anagram) - Python 
+ 74. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) - Python 
+ 75. [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) - Shell 
+ 76. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) - Python 
+ 77. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) - C++ 
 
-Count: 76
+Count: 77
 
 
 ## License
