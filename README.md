@@ -80,16 +80,17 @@
  71. [String To Integer Atoi](https://leetcode.com/problems/string-to-integer-atoi) - C++ 
  72. [Subsets](https://leetcode.com/problems/subsets) - Python 
  73. [Subtract The Product And Sum Of Digits Of An Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) - Python 
- 74. [Tenth Line](https://leetcode.com/problems/tenth-line) - Shell 
- 75. [Triangle](https://leetcode.com/problems/triangle) - C++ 
- 76. [Two Sum](https://leetcode.com/problems/two-sum) - Python 
- 77. [Valid Anagram](https://leetcode.com/problems/valid-anagram) - Python 
- 78. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) - Python 
- 79. [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) - Shell 
- 80. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) - Python 
- 81. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) - C++ 
+ 74. [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) - C++ 
+ 75. [Tenth Line](https://leetcode.com/problems/tenth-line) - Shell 
+ 76. [Triangle](https://leetcode.com/problems/triangle) - C++ 
+ 77. [Two Sum](https://leetcode.com/problems/two-sum) - Python 
+ 78. [Valid Anagram](https://leetcode.com/problems/valid-anagram) - Python 
+ 79. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) - Python 
+ 80. [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) - Shell 
+ 81. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) - Python 
+ 82. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) - C++ 
 
-Count: 81
+Count: 82
 
 
 ## License
