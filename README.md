@@ -98,16 +98,17 @@
  89. [Tenth Line](https://leetcode.com/problems/tenth-line) - Shell 
  90. [Three Divisors](https://leetcode.com/problems/three-divisors) - C++ 
  91. [Transpose Matrix](https://leetcode.com/problems/transpose-matrix) - C++ 
- 92. [Triangle](https://leetcode.com/problems/triangle) - C++ 
- 93. [Two Sum](https://leetcode.com/problems/two-sum) - Python 
- 94. [Valid Anagram](https://leetcode.com/problems/valid-anagram) - Python 
- 95. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) - Python 
- 96. [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) - Shell 
- 97. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) - Python 
- 98. [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) - C++ 
- 99. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) - C++ 
+ 92. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) - C++ 
+ 93. [Triangle](https://leetcode.com/problems/triangle) - C++ 
+ 94. [Two Sum](https://leetcode.com/problems/two-sum) - Python 
+ 95. [Valid Anagram](https://leetcode.com/problems/valid-anagram) - Python 
+ 96. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) - Python 
+ 97. [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) - Shell 
+ 98. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) - Python 
+ 99. [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) - C++ 
+ 100. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) - C++ 
 
-Count: 99
+Count: 100
 
 
 ## License
