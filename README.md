@@ -102,14 +102,15 @@
  93. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) - C++ 
  94. [Triangle](https://leetcode.com/problems/triangle) - C++ 
  95. [Two Sum](https://leetcode.com/problems/two-sum) - Python 
- 96. [Valid Anagram](https://leetcode.com/problems/valid-anagram) - Python 
- 97. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) - Python 
- 98. [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) - Shell 
- 99. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) - Python 
- 100. [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) - C++ 
- 101. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) - C++ 
+ 96. [Two Sum Ii Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) - Python 
+ 97. [Valid Anagram](https://leetcode.com/problems/valid-anagram) - Python 
+ 98. [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) - Python 
+ 99. [Valid Phone Numbers](https://leetcode.com/problems/valid-phone-numbers) - Shell 
+ 100. [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) - Python 
+ 101. [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) - C++ 
+ 102. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) - C++ 
 
-Count: 101
+Count: 102
 
 
 ## License
