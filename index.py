@@ -18,7 +18,7 @@ def main():
 
     print(files)
     for item in ignore:
-        files.remove(item)
+        if item in files: files.remove(item)
 
     # inits
     text = '\n'
